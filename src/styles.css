@@ -1,0 +1,36 @@
+.container {
+  background-color: black;
+  padding: 10px;
+  border: 1px solid black;
+  text-align: center;
+}
+.heading {
+  font-size: 50px;
+  color: blue;
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 150px;
+  justify-content: center;
+}
+.paragraph {
+  font-size: 15px;
+  color: white;
+}
+h5 {
+  color: white;
+  text-align: left;
+  margin-top: 5px;
+}
+.ideas {
+  color: orange;
+  font-size: 40px;
+  font-style: italic;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+  height: 150px;
+  width: 500px;
+  display: inline-flexbox;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
